@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Andriod-Final/AndroidCourseProject/app/src/main/res/layout/activity_cart_list.xml" value="0.264" />
+        <entry key="..\:/Andriod-Final/AndroidCourseProject/app/src/main/res/layout/activity_main.xml" value="0.21666666666666667" />
+        <entry key="..\:/Andriod-Final/AndroidCourseProject/app/src/main/res/layout/viewholder_cart.xml" value="0.4" />
+        <entry key="..\:/AndriodProject/AndroidCourseProject/app/src/main/res/drawable/category_background1.xml" value="0.1" />
+        <entry key="..\:/AndriodProject/AndroidCourseProject/app/src/main/res/drawable/category_background2.xml" value="0.149" />
+        <entry key="..\:/AndriodProject/AndroidCourseProject/app/src/main/res/drawable/category_background3.xml" value="0.149" />
+        <entry key="..\:/AndriodProject/AndroidCourseProject/app/src/main/res/drawable/category_background4.xml" value="0.149" />
+        <entry key="..\:/AndriodProject/AndroidCourseProject/app/src/main/res/drawable/category_background5.xml" value="0.149" />
+        <entry key="..\:/AndriodProject/AndroidCourseProject/app/src/main/res/drawable/orange_button.xml" value="0.149" />
+        <entry key="..\:/AndriodProject/AndroidCourseProject/app/src/main/res/layout/activity_login.xml" value="0.22056159420289856" />
+        <entry key="..\:/AndriodProject/AndroidCourseProject/app/src/main/res/layout/activity_main.xml" value="0.2128623188405797" />
+        <entry key="..\:/AndriodProject/AndroidCourseProject/app/src/main/res/layout/activity_show_detail.xml" value="0.536" />
+        <entry key="..\:/AndriodProject/AndroidCourseProject/app/src/main/res/layout/activity_sign_up.xml" value="0.2128623188405797" />
+        <entry key="..\:/AndriodProject/AndroidCourseProject/app/src/main/res/layout/categories.xml" value="0.21603260869565216" />
+        <entry key="..\:/AndriodProject/AndroidCourseProject/app/src/main/res/layout/viewholder_category.xml" value="0.21603260869565216" />
+        <entry key="..\:/AndriodProject/AndroidCourseProject/app/src/main/res/layout/viewholder_popular.xml" value="0.264" />
+        <entry key="..\:/AndroidCourseProject/app/src/main/res/drawable/category_background.xml" value="0.2265" />
+        <entry key="..\:/AndroidCourseProject/app/src/main/res/drawable/category_background1.xml" value="0.1895" />
+        <entry key="..\:/AndroidCourseProject/app/src/main/res/drawable/category_background2.xml" value="0.1895" />
+        <entry key="..\:/AndroidCourseProject/app/src/main/res/drawable/category_background3.xml" value="0.1895" />
+        <entry key="..\:/AndroidCourseProject/app/src/main/res/drawable/category_background4.xml" value="0.1895" />
+        <entry key="..\:/AndroidCourseProject/app/src/main/res/drawable/category_background5.xml" value="0.1895" />
+        <entry key="..\:/AndroidCourseProject/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidCourseProject/app/src/main/res/layout/activity_sign_up.xml" value="0.16983695652173914" />
+        <entry key="..\:/AndroidCourseProject/app/src/main/res/layout/viewholder_category.xml" value="0.25" />
+        <entry key="..\:/AndroidProject/AndroidCourseProject/app/src/main/res/layout/activity_show_detail.xml" value="0.25416666666666665" />
+        <entry key="..\:/MyData/3ed-Year/SecondSemester2022/Mobile Application/AndroidCourseProject/app/src/main/res/drawable/background_btn.xml" value="0.1685" />
+        <entry key="..\:/MyData/3ed-Year/SecondSemester2022/Mobile Application/AndroidCourseProject/app/src/main/res/drawable/background_edittext.xml" value="0.1685" />
+        <entry key="..\:/MyData/3ed-Year/SecondSemester2022/Mobile Application/AndroidCourseProject/app/src/main/res/drawable/cart_background.xml" value="0.159" />
+        <entry key="..\:/MyData/3ed-Year/SecondSemester2022/Mobile Application/AndroidCourseProject/app/src/main/res/drawable/ic_chat.xml" value="0.223" />
+        <entry key="..\:/MyData/3ed-Year/SecondSemester2022/Mobile Application/AndroidCourseProject/app/src/main/res/drawable/ic_password.xml" value="0.1685" />
+        <entry key="..\:/MyData/3ed-Year/SecondSemester2022/Mobile Application/AndroidCourseProject/app/src/main/res/drawable/ic_setting.xml" value="0.1525" />
+        <entry key="..\:/MyData/3ed-Year/SecondSemester2022/Mobile Application/AndroidCourseProject/app/src/main/res/drawable/linear_layout.xml" value="0.1525" />
+        <entry key="..\:/MyData/3ed-Year/SecondSemester2022/Mobile Application/AndroidCourseProject/app/src/main/res/drawable/logout.xml" value="0.1525" />
+        <entry key="..\:/MyData/3ed-Year/SecondSemester2022/Mobile Application/AndroidCourseProject/app/src/main/res/layout/activity_add_employee.xml" value="0.264" />
+        <entry key="..\:/MyData/3ed-Year/SecondSemester2022/Mobile Application/AndroidCourseProject/app/src/main/res/layout/activity_cart_list.xml" value="0.4" />
+        <entry key="..\:/MyData/3ed-Year/SecondSemester2022/Mobile Application/AndroidCourseProject/app/src/main/res/layout/activity_category_items.xml" value="0.161231884057971" />
+        <entry key="..\:/MyData/3ed-Year/SecondSemester2022/Mobile Application/AndroidCourseProject/app/src/main/res/layout/activity_category_meals.xml" value="0.2526041666666667" />
+        <entry key="..\:/MyData/3ed-Year/SecondSemester2022/Mobile Application/AndroidCourseProject/app/src/main/res/layout/activity_chef_cardview.xml" value="0.2526041666666667" />
+        <entry key="..\:/MyData/3ed-Year/SecondSemester2022/Mobile Application/AndroidCourseProject/app/src/main/res/layout/activity_cheif.xml" value="0.264" />
+        <entry key="..\:/MyData/3ed-Year/SecondSemester2022/Mobile Application/AndroidCourseProject/app/src/main/res/layout/activity_forget_password.xml" value="0.2526041666666667" />
+        <entry key="..\:/MyData/3ed-Year/SecondSemester2022/Mobile Application/AndroidCourseProject/app/src/main/res/layout/activity_generate_report.xml" value="0.2526041666666667" />
+        <entry key="..\:/MyData/3ed-Year/SecondSemester2022/Mobile Application/AndroidCourseProject/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/MyData/3ed-Year/SecondSemester2022/Mobile Application/AndroidCourseProject/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/MyData/3ed-Year/SecondSemester2022/Mobile Application/AndroidCourseProject/app/src/main/res/layout/activity_manger.xml" value="0.264" />
+        <entry key="..\:/MyData/3ed-Year/SecondSemester2022/Mobile Application/AndroidCourseProject/app/src/main/res/layout/activity_report_cart.xml" value="0.536" />
+        <entry key="..\:/MyData/3ed-Year/SecondSemester2022/Mobile Application/AndroidCourseProject/app/src/main/res/layout/activity_show_detail.xml" value="0.264" />
+        <entry key="..\:/MyData/3ed-Year/SecondSemester2022/Mobile Application/AndroidCourseProject/app/src/main/res/layout/activity_sign_up.xml" value="0.264" />
+        <entry key="..\:/MyData/3ed-Year/SecondSemester2022/Mobile Application/AndroidCourseProject/app/src/main/res/layout/card_view_category.xml" value="0.4" />
+        <entry key="..\:/MyData/3ed-Year/SecondSemester2022/Mobile Application/AndroidCourseProject/app/src/main/res/layout/categories.xml" value="0.161231884057971" />
+        <entry key="..\:/MyData/3ed-Year/SecondSemester2022/Mobile Application/AndroidCourseProject/app/src/main/res/layout/viewholder_cart.xml" value="0.536" />
+        <entry key="..\:/MyData/3ed-Year/SecondSemester2022/Mobile Application/AndroidCourseProject/app/src/main/res/layout/viewholder_category.xml" value="0.161231884057971" />
+        <entry key="..\:/MyData/3ed-Year/SecondSemester2022/Mobile Application/AndroidCourseProject/app/src/main/res/layout/viewholder_popular.xml" value="0.2526041666666667" />
+        <entry key="..\:/MyData/3ed-Year/SecondSemester2022/Mobile Application/AndroidProject/AndroidCourseProject/app/src/main/res/drawable/category_background1.xml" value="0.2095" />
+        <entry key="..\:/MyData/3ed-Year/SecondSemester2022/Mobile Application/AndroidProject/AndroidCourseProject/app/src/main/res/layout/activity_main.xml" value="0.1765625" />
+        <entry key="..\:/MyData/3ed-Year/SecondSemester2022/Mobile Application/AndroidProject/AndroidCourseProject/app/src/main/res/layout/viewholder_category.xml" value="0.15729166666666666" />
+        <entry key="..\:/MyData/3ed-Year/SecondSemester2022/Mobile Application/Project/app/src/main/res/drawable/background_btn.xml" value="0.258" />
+        <entry key="..\:/MyData/3ed-Year/SecondSemester2022/Mobile Application/Project/app/src/main/res/drawable/background_edittext.xml" value="0.258" />
+        <entry key="..\:/MyData/3ed-Year/SecondSemester2022/Mobile Application/Project/app/src/main/res/drawable/ic_launcher_background.xml" value="0.258" />
+        <entry key="..\:/MyData/3ed-Year/SecondSemester2022/Mobile Application/Project/app/src/main/res/drawable/search_background.xml" value="0.2565" />
+        <entry key="..\:/MyData/3ed-Year/SecondSemester2022/Mobile Application/Project/app/src/main/res/layout/activity_forget_password.xml" value="0.15806159420289856" />
+        <entry key="..\:/MyData/3ed-Year/SecondSemester2022/Mobile Application/Project/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/MyData/3ed-Year/SecondSemester2022/Mobile Application/Project/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/MyData/3ed-Year/SecondSemester2022/Mobile Application/Project/app/src/main/res/layout/activity_sign_up.xml" value="0.2526041666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
